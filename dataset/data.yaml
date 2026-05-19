@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['clamp']
+
+roboflow:
+  workspace: habibas-workspace-ckvhm
+  project: cv-task-clamp-detection
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/habibas-workspace-ckvhm/cv-task-clamp-detection/dataset/2
