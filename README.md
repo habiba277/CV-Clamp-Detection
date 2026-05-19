@@ -15,9 +15,9 @@ Image Size: 640
 Device: CPU
 
 ## Results
-- mAP50: 0.593
+- mAP50: 0.679
 - Precision: 0.622
-- Recall: 0.499
+- Recall: 0.604
 
 ## Run Training
 
