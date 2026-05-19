@@ -10,7 +10,7 @@ This project trains a YOLO11 object detection model to detect clamps in industri
 
 ## Training
 Model: YOLO11n  
-Epochs: 20  
+Epochs: 50  
 Image Size: 640  
 Device: CPU
 
