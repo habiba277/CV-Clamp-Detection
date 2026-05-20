@@ -16,8 +16,8 @@ Device: CPU
 
 ## Results
 - mAP50: 0.679
-- Precision: 0.622
-- Recall: 0.604
+- Precision: 0.724
+- Recall: 0.643
 
 ## Run Training
 
